@@ -1,0 +1,22 @@
+[DesignatorManager]
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+DocumentName0=breakout capacitive sensor and haptic.SchDoc
+UniqueIDPath0=
+SheetNumber0=5
+DocumentName1=[01] - COVER PAGE.SchDoc
+UniqueIDPath1=
+SheetNumber1=1
+DocumentName2=[02] - BLOCK DIAGRAM.SchDoc
+UniqueIDPath2=
+SheetNumber2=2
+DocumentName3=[03] - CAPACITIVE SENSOR AND HAPTIC.SchDoc
+UniqueIDPath3=
+SheetNumber3=3
+DocumentName4=[04] - REVISION HISTORY.SchDoc
+UniqueIDPath4=
+SheetNumber4=4
+
+
